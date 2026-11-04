@@ -1,4 +1,2 @@
 ![Pete Supsinskas](Supsinskas.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Mr. Supsinskas is the Chief Technologist for the Space Science and Securities Program at Lawrence Livermore National Laboratory and serves as Pandora’s Project Manager. Prior to joining LLNL in 2018 as a Spacecraft Systems and later as the Associate Program Leader for Space Hardware, He worked for Lockheed Martin Space Systems Company from 2003-2018 on the Space Based Infra-Red Systems Program (SBIRS) in Systems Engineering, Integration and Test, then as a member of the Chief Engineers office and finally as the Senior Manager of Systems Engineering & Integration.  Peter is also a veteran of the United States Air Force where he performed Satellite Command & Control, Space Launch Operations and Space Electronic Warfare.

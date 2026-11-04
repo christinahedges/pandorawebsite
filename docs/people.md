@@ -1,6 +1,6 @@
 # People behind Pandora
 
-The Pandora team is made up of various researchers and engineers from across NASA and Lawrence Livermore National Labs.
+The Pandora team is made up of various researchers and engineers from across NASA institutions, Lawrence Livermore National Labs, multiple research centers and universities, encompassing both senior and early-career researchers. 
 
 
 !!! people "Elisa Quintana: Principle Investigator"
@@ -15,7 +15,7 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Thomas Barclay: Deputy Project Scientist"
     {%include-markdown "authors/barclay.md"%}
 
-!!! people "Jordan Karburn"
+!!! people "Jordan Karburn: Deputy Project Manager"
     {%include-markdown "authors/karburn.md"%}
 
 !!! people "James Mason: Mission Operations Support"
@@ -33,11 +33,26 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Jason Rowe: Auxiliary Science Lead"
     {%include-markdown "authors/rowe.md"%}
 
-!!! people "Jessie Christiansen: Archive Scientist"
+!!! people "Aurora Kesseli: Archive Scientist"
+    {%include-markdown "authors/kesseli.md"%}
+
+!!! people "Rob Zellem: Ground-based Sub-working Group Lead"
+    {%include-markdown "authors/zellem.md"%}
+
+!!! people "Natalie Allen"
+    {%include-markdown "authors/allen.md"%}
+
+!!! people "Jessie Christiansen"
     {%include-markdown "authors/christiansen.md"%}
+
+!!! people "Néstor Espinoza"
+    {%include-markdown "authors/espinoza.md"%}
 
 !!! people "Trevor Foote"
     {%include-markdown "authors/foote.md"%}
+
+!!! people "Nguyen Fuda"
+    {%include-markdown "authors/fuda.md"%}
 
 !!! people "Emily Gilbert"
     {%include-markdown "authors/gilbert.md"%}
@@ -48,13 +63,25 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Kelsey Hoffman"
     {%include-markdown "authors/hoffman.md"%}
 
+!!! people "Rae Holcomb"
+    {%include-markdown "authors/holcomb.md"%}
+
+!!! people "Ben Hord"
+    {%include-markdown "authors/hord.md"%} 
+
+!!! people "Aishwarya Iyer "
+    {%include-markdown "authors/iyer.md"%}
+
 !!! people "Veselin Kostov"
     {%include-markdown "authors/kostov.md"%}
 
 !!! people "Nikole Lewis"
     {%include-markdown "authors/lewis.md"%}
 
-!!! people "Megan Mansfield"
+!!! people "Andrew Mann"
+    {%include-markdown "authors/mann.md"%}
+
+!!! people "Megan Weiner Mansfield"
     {%include-markdown "authors/mansfield.md"%}
 
 !!! people "Brett Morris"
@@ -69,14 +96,17 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Elizabeth Newton"
     {%include-markdown "authors/newton.md"%}
 
-!!! people "Josh Pepper"
-    {%include-markdown "authors/pepper.md"%}
-
 !!! people "Josh Schlieder"
     {%include-markdown "authors/schlieder.md"%}
 
+!!! people "Kevin Stevenson"
+    {%include-markdown "authors/stevenson.md"%}
+
 !!! people "Pete Supsinskas"
     {%include-markdown "authors/supsinskas.md"%}
+
+!!! people "Lindsey Wiser"
+    {%include-markdown "authors/wiser.md"%}
 
 !!! people "Allison Youngblood"
     {%include-markdown "authors/youngblood.md"%}

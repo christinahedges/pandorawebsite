@@ -11,15 +11,28 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    
     - name: Set up Python ${{ matrix.python-version }}
       uses: actions/setup-python@v2
       with:
         python-version: ${{ matrix.python-version }}
+        
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
+        # python -m pip install --upgrade pip
         python -m pip install poetry
+        poetry lock # refresh lock
         poetry install
+
+    - name: Copy announcement to override directory
+      run: |
+        cp docs/announcement.html docs/override/announcement.html
+        
+    - name: Create CNAME file
+      run: |
+        mkdir -p ./public  # Make sure the directory exists
+        echo "pandorasat.com" > ./public/CNAME  # Replace with your custom domain
+
     - name: Deploy website
       run: |
         poetry run mkdocs gh-deploy --force

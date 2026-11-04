@@ -1,0 +1,3 @@
+![Lindsey Wiser](Wiser.png){ class=avatar }
+
+Lindsey Wiser is a postdoc at the Johns Hopkins Applied Physics Lab and a former Graduate Student Shadow with the Pandora mission. She earned her undergraduate degree in Engineering Mechanics and Earth and Planetary Science from Johns Hopkins University, followed by an Astrophysics PhD from Arizona State University. She is an expert in atmosphere modeling and her research revolves around determining the composition of exoplanet atmospheres to provide insights into planet formation and climate. She is also involved in space and science policy with the American Astronomical Society and other organizations.

@@ -1,4 +1,2 @@
 ![Elisa Quintana](Quintana.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Elisa Quintana is the Principal Investigator of Pandora and an astrophysicist at NASA’s Goddard Space Flight Center. She has been working on exoplanet research since 1999 when she began developing models of terrestrial planet formation in extreme environments at NASA’s Ames Research Center. She was a member of the Kepler Mission and led a team of astronomers to confirm Kepler-186f, the first Earth-sized planet found to orbit another star in the habitable zone. She also served as Deputy Project Scientist on the TESS Mission. Her research focuses on the detection, formation, and habitability of exoplanets.

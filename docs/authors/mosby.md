@@ -1,4 +1,2 @@
 ![Greg Mosby](Mosby.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Greg Mosby is a lead detector scientist for Pandora. Dr. Mosby is also a detector scientist on the Nancy Grace Roman Space Telescope project science team. In addition to Pandora, he is a collaborator on additional small space-based and ground-based missions. His research interests include near-infrared detectors, astronomical instrumentation, and applications of machine learning to observational astronomy, particularly in challenging applications where signal-to-noise is limiting.

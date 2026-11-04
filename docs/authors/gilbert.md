@@ -1,4 +1,2 @@
 ![Emily Gilbert](Gilbert.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Emily Gilbert is a staff scientist at IPAC working on the NASA Exoplanet Archive. Her research focuses on the detection and characterization of exoplanets around low mass stars using a variety of ground- and space-based facilities for her research. A large portion of her work uses data from NASA's TESS mission to search for planets and characterize their host stars. Prior to this, Emily was a postdoctoral fellow at NASA's Jet Propulsion Laboratory in the Exoplanet Exploration Program office. Emily received her PhD from the University of Chicago in 2022, and previously worked at Planet Labs on their fleet of Earth-imaging CubeSats. She received her undergraduate degree from Brown University where she was a leader of the Brown CubeSat Team.

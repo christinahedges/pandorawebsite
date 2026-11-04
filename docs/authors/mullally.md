@@ -1,4 +1,2 @@
 ![Susan Mullaly](Mullally.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Susan Mullally is the Mission Scientist for the Data Science Mission Office at the Space Telescope Science Institute and is Deputy PI for the Mikulski Archive for Space Telescopes. Her research focuses on exoplanets, binary stars and stellar variability, with an eye towards finding exoplanets similar to those in our own solar system.  Previously she was a member of the Kepler Science Office, worked as a data scientist for the MAST, and worked as a Project Scientist for JWST.

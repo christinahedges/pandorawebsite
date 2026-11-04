@@ -1,4 +1,2 @@
-![Jordan Karburn](Blank.png){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+![Jordan Karburn](Karburn.png){ class=avatar }
+Jordan Karburn joined LLNL’s National Security Engineering Division in 2017 after earning his Bachelor of Science in Electrical Engineering from California Polytechnic State University, San Luis Obispo. He works on flight hardware development projects within the Space Program. He is the Deputy Project Manager for the NASA Pandora SmallSat. In addition to his role on Pandora, he is the Principal Investigator for the CODA telescope program and serves as the Group Leader for Space Electronic Systems within LLNL Engineering Directorate. 
